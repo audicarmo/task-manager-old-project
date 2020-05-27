@@ -1,0 +1,9 @@
+﻿h2 {
+    font-family: fantasy !important;
+    font-weight: 700 !important;
+}
+
+tbody tr th {
+    text-align: center !important;
+    background-color: #000 !important;
+}

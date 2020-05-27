@@ -1,0 +1,292 @@
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\GerenciadorDeTarefas_Novo.dll.config
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\GerenciadorDeTarefas_Novo.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\GerenciadorDeTarefas_Novo.pdb
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\csc.exe
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\csc.exe.config
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\csc.rsp
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\csi.exe
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\csi.exe.config
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\csi.rsp
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.AppContext.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.Collections.Immutable.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.Console.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.Compression.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.FileSystem.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.Pipes.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.Reflection.Metadata.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.AccessControl.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Claims.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.ValueTuple.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.Xml.XPath.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\vbc.exe
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\vbc.exe.config
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\vbc.rsp
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\VBCSCompiler.exe
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\roslyn\VBCSCompiler.exe.config
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\Antlr3.Runtime.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\AspNet.ScriptManager.bootstrap.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\AspNet.ScriptManager.jQuery.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\Microsoft.ScriptManager.WebForms.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\Microsoft.Web.Infrastructure.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\Newtonsoft.Json.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\System.Web.Optimization.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\WebGrease.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\System.Web.Optimization.xml
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\Newtonsoft.Json.xml
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\Antlr3.Runtime.pdb
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\pt-br\System.Web.Optimization.resources.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\obj\Debug\GerenciadorDeTarefas_Novo.csprojAssemblyReference.cache
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\obj\Debug\GerenciadorDeTarefas_Novo.csproj.CoreCompileInputs.cache
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\obj\Debug\GerenciadorDeTarefas_Novo.csproj.CopyComplete
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\obj\Debug\GerenciadorDeTarefas_Novo.dll
+C:\UNIP\GerenciadorDeTarefas_Novo\GerenciadorDeTarefas_Novo\obj\Debug\GerenciadorDeTarefas_Novo.pdb
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\GerenciadorDeTarefas_Novo.dll.config
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\GerenciadorDeTarefas_Novo.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\GerenciadorDeTarefas_Novo.pdb
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\csc.exe
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\csc.exe.config
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\csc.rsp
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\csi.exe
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\csi.exe.config
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\csi.rsp
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.AppContext.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Console.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.Compression.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Claims.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.ValueTuple.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\vbc.exe
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\vbc.exe.config
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\vbc.rsp
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\VBCSCompiler.exe
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\Antlr3.Runtime.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\Newtonsoft.Json.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\System.Web.Optimization.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\WebGrease.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\System.Web.Optimization.xml
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\Newtonsoft.Json.xml
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\Antlr3.Runtime.pdb
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\obj\Debug\GerenciadorDeTarefas_Novo.csprojAssemblyReference.cache
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\obj\Debug\GerenciadorDeTarefas_Novo.csproj.CoreCompileInputs.cache
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\obj\Debug\GerenciadorDeTarefas_Novo.csproj.CopyComplete
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\obj\Debug\GerenciadorDeTarefas_Novo.dll
+C:\Users\diego\Dropbox\7. UNIP\4. SEMESTRE\PIM VIII\PIM 8 [ATUALIZADO]\Técnica\GerenciadorDeTarefas_Novo\obj\Debug\GerenciadorDeTarefas_Novo.pdb
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\GerenciadorDeTarefas_Novo.dll.config
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\GerenciadorDeTarefas_Novo.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\GerenciadorDeTarefas_Novo.pdb
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\csc.exe
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\csc.exe.config
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\csc.rsp
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\csi.exe
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\csi.exe.config
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\csi.rsp
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.AppContext.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Collections.Immutable.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Console.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.Compression.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.FileSystem.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.Pipes.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.AccessControl.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Claims.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.ValueTuple.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Xml.XPath.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\vbc.exe
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\vbc.exe.config
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\vbc.rsp
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\VBCSCompiler.exe
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\VBCSCompiler.exe.config
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Antlr3.Runtime.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\AspNet.ScriptManager.jQuery.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.Web.Infrastructure.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Newtonsoft.Json.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\System.Web.Optimization.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\WebGrease.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\System.Web.Optimization.xml
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Newtonsoft.Json.xml
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Antlr3.Runtime.pdb
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\pt-br\System.Web.Optimization.resources.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\obj\Debug\GerenciadorDeTarefas_Novo.csprojAssemblyReference.cache
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\obj\Debug\GerenciadorDeTarefas_Novo.csproj.CopyComplete
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\obj\Debug\GerenciadorDeTarefas_Novo.dll
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\obj\Debug\GerenciadorDeTarefas_Novo.pdb
+D:\Google Drive\PIM\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\desktop.ini
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\obj\Debug\GerenciadorDeTarefas_Novo.csprojAssemblyReference.cache
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\obj\Debug\GerenciadorDeTarefas_Novo.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\obj\Debug\GerenciadorDeTarefas_Novo.pdb
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\GerenciadorDeTarefas_Novo.dll.config
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\GerenciadorDeTarefas_Novo.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\GerenciadorDeTarefas_Novo.pdb
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\csc.exe
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\csc.exe.config
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\csc.rsp
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\csi.exe
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\csi.exe.config
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\csi.rsp
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\desktop.ini
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.AppContext.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Collections.Immutable.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Console.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.Compression.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.FileSystem.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.Pipes.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.AccessControl.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Claims.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.ValueTuple.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Xml.XPath.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\vbc.exe
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\vbc.exe.config
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\vbc.rsp
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\VBCSCompiler.exe
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\VBCSCompiler.exe.config
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Antlr3.Runtime.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\AspNet.ScriptManager.jQuery.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.Web.Infrastructure.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Newtonsoft.Json.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\System.Web.Optimization.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\WebGrease.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\System.Web.Optimization.xml
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Newtonsoft.Json.xml
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Antlr3.Runtime.pdb
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\pt-br\System.Web.Optimization.resources.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\obj\Debug\GerenciadorDeTarefas_Novo.csproj.CopyComplete

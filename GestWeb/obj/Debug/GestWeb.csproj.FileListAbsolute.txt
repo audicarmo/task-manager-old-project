@@ -1,0 +1,171 @@
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\csc.exe
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\csc.exe.config
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\csc.rsp
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\csi.exe
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\csi.exe.config
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\csi.rsp
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\desktop.ini
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.AppContext.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Collections.Immutable.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Console.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.Compression.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.FileSystem.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.IO.Pipes.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.AccessControl.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Claims.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.ValueTuple.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Xml.XPath.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\vbc.exe
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\vbc.exe.config
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\vbc.rsp
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\VBCSCompiler.exe
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\roslyn\VBCSCompiler.exe.config
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Antlr3.Runtime.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\AspNet.ScriptManager.jQuery.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.Web.Infrastructure.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Newtonsoft.Json.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\System.Web.Optimization.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\WebGrease.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\System.Web.Optimization.xml
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Newtonsoft.Json.xml
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Antlr3.Runtime.pdb
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\pt-br\System.Web.Optimization.resources.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\obj\Debug\GestWeb.csprojAssemblyReference.cache
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\obj\Debug\GestWeb.csproj.CopyComplete
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\GestWeb.dll.config
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\GestWeb.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\bin\GestWeb.pdb
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\obj\Debug\GestWeb.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GerenciadorDeTarefas_Novo\obj\Debug\GestWeb.pdb
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\GestWeb.dll.config
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\GestWeb.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\GestWeb.pdb
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\csc.exe
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\csc.exe.config
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\csc.rsp
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\csi.exe
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\csi.exe.config
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\csi.rsp
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.AppContext.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.Console.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.IO.Compression.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.IO.Pipes.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.Security.AccessControl.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.Security.Claims.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.ValueTuple.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\vbc.exe
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\vbc.exe.config
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\vbc.rsp
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\VBCSCompiler.exe
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\Antlr3.Runtime.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\AspNet.ScriptManager.jQuery.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\Newtonsoft.Json.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\System.Web.Optimization.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\WebGrease.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\System.Web.Optimization.xml
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\Newtonsoft.Json.xml
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\Antlr3.Runtime.pdb
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\pt-br\System.Web.Optimization.resources.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\obj\Debug\GestWeb.csprojAssemblyReference.cache
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\obj\Debug\GestWeb.csproj.CopyComplete
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\obj\Debug\GestWeb.dll
+D:\Faculdade UNIP EAD\Material\Semestre 4\PIM VIII\PIM Paradigma\Pratica\GestWeb\obj\Debug\GestWeb.pdb
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\GestWeb.dll.config
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\GestWeb.dll
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\GestWeb.pdb
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\Antlr3.Runtime.dll
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\AspNet.ScriptManager.jQuery.dll
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\Newtonsoft.Json.dll
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\System.Web.Optimization.dll
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\WebGrease.dll
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\System.Web.Optimization.xml
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\Newtonsoft.Json.xml
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\Antlr3.Runtime.pdb
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\pt-br\System.Web.Optimization.resources.dll
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\obj\Debug\GestWeb.csprojAssemblyReference.cache
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\obj\Debug\GestWeb.csproj.CopyComplete
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\obj\Debug\GestWeb.dll
+D:\Google Drive\PIM\PIM VIII\GestWeb\GestWeb\obj\Debug\GestWeb.pdb
